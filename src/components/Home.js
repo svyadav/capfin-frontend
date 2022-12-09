@@ -32,7 +32,7 @@ const Home=()=>{
               
             })
             .catch((err) => {
-              console.log(err);
+              console.log("This is errr",err);
             });
         };
         getUser(); 

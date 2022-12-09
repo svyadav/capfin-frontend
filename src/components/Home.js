@@ -27,7 +27,7 @@ const Home=()=>{
               throw new Error("authentication has been failed!");
             })
             .then((response) => {
-              // console.log('user',response)
+              console.log('user',response)
               setUser(response.user);
               
             })

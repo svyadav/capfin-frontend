@@ -1,6 +1,6 @@
 
-const serverUrl = 'http://localhost:5000'
-const clientUrl = 'http://localhost:3000'
+const serverUrl = 'https://cap-back-fin.onrender.com'
+const clientUrl = 'https://tubular-centaur-932732.netlify.app'
 module.exports = {
     serverUrl,
     clientUrl
